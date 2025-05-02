@@ -14,10 +14,10 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-            Adolfo's page
+            Adolfo&apos;s page
           </li>
           <li className="mb-2 tracking-[-.01em]">
-            This is my page, it's mine and you shouldn't touch it, unless you are me, then you can touch it.
+            This is my page, it&apos;s mine and you shouldn&apos;t touch it, unless you are me, then you can touch it.
           </li>
         </ol>
 
